@@ -31,7 +31,7 @@
 
 В настоящее время изучаю JavaScript.
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nurbolot0225&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues" alt=Nurbolot0225 /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nurbolot0225&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide=issues" alt=Nurbolot0225 /> </p>
 
 
 ## Контакты

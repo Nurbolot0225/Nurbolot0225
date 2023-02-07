@@ -31,9 +31,9 @@
 
 В настоящее время изучаю JavaScript.
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Nurbolot0225&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues" alt=Nurbolot0225 /> </p>
+<a align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Nurbolot0225&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues" alt=Nurbolot0225 /> </a>
 
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurbolot0225&layout=compact)](https://github.com/Nurbolot0225/github-readme-stats" alt=Nurbolot0225 /> </p>
+<a align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurbolot0225&layout=compact)](https://github.com/Nurbolot0225/github-readme-stats" alt=Nurbolot0225 /> </a>
 
 ## Контакты
 - 👯 Я ищу сотрудничество в проектах где надо Верстать

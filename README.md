@@ -35,6 +35,5 @@
 
 ## Contacts
 - 📫 How to contact me:
-- 👯 I am looking for cooperation in projects where it is necessary to make up
 - 📫 How to contact me: <a href="https://t.me/Nurbolot0225 ">@Telegram,</a> <a href="https://linkedin.com/in/nurbolot0225 ">@Linkedin, </a> Email address: nurchik0225@gmail.com
 Mobile phone: <a href="tel:996501733911">+996 501 73 39 11</a> 

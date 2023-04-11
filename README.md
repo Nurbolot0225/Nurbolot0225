@@ -1,7 +1,7 @@
-<h1>Привет! Меня зовут <a href="#" target="_blank">Нурболот</a> 
+<h1>Hi! My name is <a href="#" target="_blank">Nurbolot</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%D0%AF+%D1%83%D0%B2%D0%BB%D0%B5%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9+Front-end+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+passionate+Frontend+developer!)](https://git.io/typing-svg)
 
 <p align="center">
 
@@ -9,7 +9,7 @@
 
 </p>
 
-## 👨‍💻 Языки и инструменты:
+## 👨‍💻 Languages and tools:
 
 <p align="left">
     <a href="" target="_blank">
@@ -29,13 +29,10 @@
     </a>
 </p>
 
-В настоящее время изучаю JavaScript.
-
 <p align="left"> <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Nurbolot0225&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues" alt=Nurbolot0225 /></p>
 
 <p align="left"> <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurbolot0225&layout=compact&theme=tokyonight" alt=Nurbolot0225 /></p>
 
-## Контакты
-- 👯 Я ищу сотрудничество в проектах где надо Верстать
-- 📫 Как со мной связаться: <a href="https://t.me/Nurbolot0225">@Telegram,</a> <a href="https://linkedin.com/in/nurbolot0225">@Linkedin, </a> Электронная почта: nurchik0225@gmail.com
-Мобильный телефон: +996 501 73 39 11
+## Contacts
+- 📫 How to contact me: <a href="https://t.me/Nurbolot0225"><h4><a href="https://icons8.com/icon/63306/telegram-app"></a></h4>, </a> <a href="https://linkedin.com/in/nurbolot0225"><h4><a href="https://icons8.com/icon/13930/linkedin"></a></h4>,</a>, </a> <h4><a href="https://icons8.com/icon/P7UIlhbpWzZm/gmail"></a></h4> nurchik0225@gmail.com
+<h4><a href="https://icons8.com/icon/I24lanX6Nq71/phone"></a></h4> +996 501 73 39 11

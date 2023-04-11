@@ -35,7 +35,6 @@
 
 ## Contacts
 - 📫 How to contact me:
-[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=telegram)](https://t.me/Nurbolot0225)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-128c7e?style=for-the-badge&logo=Linkedin&logoColor=Linkedin)](https://linkedin.com/in/nurbolot0225)
-Email address: nurchik0225@gmail.com
-Mobile phone: +996 501 73 39 11
+- 👯 I am looking for cooperation in projects where it is necessary to make up
+- 📫 How to contact me: <a href="https://t.me/Nurbolot0225 ">@Telegram,</a> <a href="https://linkedin.com/in/nurbolot0225 ">@Linkedin, </a> Email address: nurchik0225@gmail.com
+Mobile phone: <a href="tel:996501733911">+996 501 73 39 11</a> 

@@ -34,6 +34,6 @@
 <p align="left"> <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurbolot0225&layout=compact&theme=tokyonight" alt=Nurbolot0225 /></p>
 
 ## Contacts
-- 📫 How to contact me: <a href="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>  
+- 📫 How to contact me: <a href="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">Telegram</a>  
 Email address: nurchik0225@gmail.com
 Mobile phone: +996 501 73 39 11

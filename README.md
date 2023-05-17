@@ -31,8 +31,6 @@
 
 <p align="left"> <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Nurbolot0225&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues" alt=Nurbolot0225 /></p>
 
-<p align="left"> <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurbolot0225&layout=compact&theme=tokyonight" alt=Nurbolot0225 /></p>
-
-## Contacts
+## 📞 Contacts
 - 📫 How to contact me: <a href="https://t.me/Nurbolot0225 ">@Telegram,</a> <a href="https://linkedin.com/in/nurbolot0225 ">@Linkedin, </a> Email address: nurchik0225@gmail.com
 Mobile phone: <a href="tel:996501733911">+996 501 73 39 11</a> 

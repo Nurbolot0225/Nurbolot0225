@@ -28,16 +28,16 @@
 ## 📞 Contacts
 
 <p align="left">
-    <a href="https://t.me/Nurbolot25" target="_blank">
+    <a href="https://t.me/Nurbolot25" style="text-decoration: none;" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
     </a>
-    <a href="https://linkedin.com/in/nurbolot0225" target="_blank">
+    <a href="https://linkedin.com/in/nurbolot0225" style="text-decoration: none;" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="mailto:nurchik0225@gmail.com" target="_blank">
+    <a href="mailto:nurchik0225@gmail.com" style="text-decoration: none;" target="_blank">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
-    <a href="https://www.instagram.com/nurbolot__berdibekov/" target="_blank">
+    <a href="https://www.instagram.com/nurbolot__berdibekov/" style="text-decoration: none;" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
     <a href="tel:996501733911" target="_blank" style="text-decoration: none;">

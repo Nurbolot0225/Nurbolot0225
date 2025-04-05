@@ -7,16 +7,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nurbolot0225&color=blue&style=flat-square)
 
----
-
 ## 🚀 About Me
 
 - 💻 I'm a passionate Frontend Developer focused on building modern, responsive, and user-friendly web applications.
 - 📚 Currently diving deep into **Next.js**, **Vue.js**, and **Nuxt.js** to expand my frontend toolkit.
 - 🌍 Based in **Bishkek, Kyrgyzstan**, I thrive on creating beautiful and performant user interfaces.
 - ✨ I enjoy turning complex ideas into intuitive and interactive experiences, constantly exploring new frameworks, design systems, and performance optimization techniques.
-
----
 
 ## 🛠️ Skills and Technologies
 
@@ -35,20 +31,14 @@
   <img src="https://skillicons.dev/icons?i=git,webpack,gulp" />
 </p>
 
----
-
 ## 📈 Profile Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nurbolot0225&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurbolot0225&layout=compact&theme=radical)
 
----
-
 ## 🧠 LeetCode Stats
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Nurbolot0225?theme=dark&font=Fira+Code&ext=contest)](https://leetcode.com/Nurbolot0225/)
-
----
 
 ## 📞 Contacts
 

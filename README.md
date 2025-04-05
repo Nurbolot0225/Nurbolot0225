@@ -1,29 +1,54 @@
-<h1>Hi! My name is <a href="#" target="_blank">Nurbolot</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1>
+  Hi! My name is <a href="#" target="_blank">Nurbolot</a> 
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+passionate+Frontend+developer!)](https://git.io/typing-svg)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Frontend Developer Animation" />
 
-## 🚀 About me
+![Profile Views](https://komarev.com/ghpvc/?username=Nurbolot0225&color=blue&style=flat-square)
 
-- 💻 I specialize in frontend development for web applications.
-- 📚 Currently, I’m learning Next.js, Vue, and Nuxt.js.
-- 🌍 I’m from Bishkek, Kyrgyzstan.
-- ✨ I’m interested in creating dynamic and interactive user interfaces, exploring new frontend frameworks, and improving performance optimization techniques.
+---
 
+## 🚀 About Me
 
-## 🛠️ Skills and technology
+- 💻 I'm a passionate Frontend Developer focused on building modern, responsive, and user-friendly web applications.
+- 📚 Currently diving deep into **Next.js**, **Vue.js**, and **Nuxt.js** to expand my frontend toolkit.
+- 🌍 Based in **Bishkek, Kyrgyzstan**, I thrive on creating beautiful and performant user interfaces.
+- ✨ I enjoy turning complex ideas into intuitive and interactive experiences, constantly exploring new frameworks, design systems, and performance optimization techniques.
 
-<p align="left">
-    <a href="" target="_blank">
-        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,gulp,js,typescript,react,materialui,styledcomponents,redux" />
-    </a>
+---
+
+## 🛠️ Skills and Technologies
+
+### 🧑‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript" />
 </p>
+
+### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,bootstrap,materialui,styledcomponents,sass" />
+</p>
+
+### 🧰 Tools & Other
+<p>
+  <img src="https://skillicons.dev/icons?i=git,webpack,gulp" />
+</p>
+
+---
 
 ## 📈 Profile Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nurbolot0225&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurbolot0225&layout=compact&theme=radical)
 
+---
+
+## 🧠 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Nurbolot0225?theme=dark&font=Fira+Code&ext=contest)](https://leetcode.com/Nurbolot0225/)
+
+---
 
 ## 📞 Contacts
 

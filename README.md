@@ -54,13 +54,10 @@
    <a href="https://www.instagram.com/nurbolot__berdibekov/" style="text-decoration: none;" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram">
   </a>
-</p>
-
-<p align="left">
-    <a href="https://t.me/Nurbolot25" style="text-decoration: none;" target="_blank">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-    </a>
-    <a href="tel:996501733911" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone">
-    </a>
+  <a href="https://t.me/Nurbolot25" style="text-decoration: none;" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="50" height="50" alt="Telegram">
+  </a>
+  <a href="tel:996501733911" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" width="50" height="50" alt="Phone">
+  </a>
 </p>

@@ -31,7 +31,7 @@
   <img src="https://skillicons.dev/icons?i=npm,yarn" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,webpack,babel,gulp" />
+  <img src="https://skillicons.dev/icons?i=git,webpack,babel,gulp,postman" />
 </p>
 
 ## 📈 Profile Statistics
